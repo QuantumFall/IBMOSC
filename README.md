@@ -1,6 +1,6 @@
 # IBMOSC
 
-Submission for the IBM Open Science Prize 2022 (started in 2022, but concluded in 2023), together with fellow teammates Pooja Jayachandran and Chee Chong Hian.
+Submission for the IBM Open Science Prize 2022 (started in 2022, but concluded in 2023), together with fellow teammates from CQT Pooja Jayachandran and Chee Chong Hian.
 
 The aim of the challenge was to use the Variational Quantum Eigensolve (VQE) to find the ground state of the Heisenberg Hamiltonian with the connectivity of the Kagome Lattice.
 Main judging criteria was done based on accuracy, scalability of method, clarity of code and documentation. 
